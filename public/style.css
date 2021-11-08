@@ -1,0 +1,30 @@
+body{
+    background-color: #474F3F;
+}
+
+.card{
+    width: 25%;
+    border: 1px solid #DFD7CC;
+    border-radius: 5px;
+    background-color: #6F6D5B;
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.card button{
+    margin: 5px;
+}
+
+h1{
+    color: #DFD7CC;
+}
+
+a{
+    color: #DFD7CC;
+    padding: 10px;
+    border: 1px solid #DFD7CC;
+    border-radius: 5px;
+}
+
